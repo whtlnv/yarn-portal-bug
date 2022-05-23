@@ -1,0 +1,12 @@
+{
+  "name": "three",
+  "version": "1.0.0",
+  "description": "You can now import number 3 into your code",
+  "type": "module",
+  "main": "index.mjs",
+  "packageManager": "yarn@3.2.1",
+  "dependencies": {
+    "one": "portal:../one",
+    "two": "portal:../two"
+  }
+}
